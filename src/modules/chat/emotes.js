@@ -241,7 +241,7 @@ ${appearLeaveToKeyframes(LEAVE_FRAMES, 0.5, 50, true)}
 		setting: 'HyperRed',
 		flags: Flags.HyperRed,
 		title: 'Hyper Red',
-		filter: 'brightness(0.2) sepia(1) brightness(2.2) contrast(3) saturate(8)'
+		filter: 'brightness(0.2) sepia(1) brightness(2.2) contrast(1.5) saturate(12)'
 	},
 	{
 		setting: 'Shake',
